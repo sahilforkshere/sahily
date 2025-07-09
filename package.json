@@ -1,7 +1,11 @@
 {
   "name": "sahily",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "CLI card for Sahil Pal",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/sahilforkshere/sahily.git"
+  },
   "main": "index.js",
   "bin": {
     "sahily": "./index.js"
